@@ -1,2 +1,2 @@
-# AI-LAB-V-SEM
+# AI-Programs
 All AI programs will be avilable here...
